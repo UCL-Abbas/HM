@@ -1,0 +1,13 @@
+./objects/SyntaxElementParser.d.o: \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/SyntaxElementParser.cpp \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+  ../../../../source/Lib/TLibDecoder/SyntaxElementParser.h
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/SyntaxElementParser.cpp :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+  ../../../../source/Lib/TLibDecoder/SyntaxElementParser.h :

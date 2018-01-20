@@ -1,0 +1,9 @@
+./objects/TComBitStream.r.o: \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.cpp \
+  ../../../../source/Lib/TLibCommon/TComBitStream.h \
+  ../../../../source/Lib/TLibCommon/CommonDef.h \
+  ../../../../source/Lib/TLibCommon/TypeDef.h
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.cpp :
+  ../../../../source/Lib/TLibCommon/TComBitStream.h :
+  ../../../../source/Lib/TLibCommon/CommonDef.h :
+  ../../../../source/Lib/TLibCommon/TypeDef.h :

@@ -1,0 +1,21 @@
+./objects/TAppDecCfg.d.o: \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp \
+  ../../../../source/App/TAppDecoder/TAppDecCfg.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp :
+  ../../../../source/App/TAppDecoder/TAppDecCfg.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h :

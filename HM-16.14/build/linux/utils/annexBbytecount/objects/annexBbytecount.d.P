@@ -1,0 +1,9 @@
+./objects/annexBbytecount.d.o: \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/CommonDef.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/TypeDef.h
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/CommonDef.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/TypeDef.h :

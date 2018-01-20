@@ -1,0 +1,9 @@
+./objects/AnnexBread.d.o: \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/AnnexBread.cpp \
+  ../../../../source/Lib/TLibDecoder/AnnexBread.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/AnnexBread.cpp :
+  ../../../../source/Lib/TLibDecoder/AnnexBread.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :

@@ -1,0 +1,25 @@
+./objects/NALread.d.o: \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/NALread.cpp \
+  ../../../../source/Lib/TLibDecoder/NALread.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComBitStream.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/NAL.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComCodingStatistics.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/NALread.cpp :
+  ../../../../source/Lib/TLibDecoder/NALread.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComBitStream.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/NAL.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComCodingStatistics.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h :

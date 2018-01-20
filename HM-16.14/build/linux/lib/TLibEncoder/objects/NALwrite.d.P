@@ -1,0 +1,13 @@
+./objects/NALwrite.d.o: \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+  ../../../../source/Lib/TLibEncoder/NALwrite.h
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+  /Users/uceeaa2/Shared/stitching/HM/Software/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+  ../../../../source/Lib/TLibEncoder/NALwrite.h :
